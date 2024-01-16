@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**langgengydst/langgengydst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=langgengydst)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning [React](https://reactjs.org/), 
+[Next.js](https://nextjs.org/)
+- 👯 I’m looking to collaborate on [React](https://reactjs.org/)
+- 🤔 I’m looking for help with [React](https://reactjs.org/)
+- 💬 Ask me about [React](https://reactjs.org/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a Frontend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=langgengydst&show_icons=true&theme=radical" alt="langgengydst" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=langgengydst&layout=compact&theme=radical" alt="langgengydst" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=langgengydst&theme=radical" alt="langgengydst" />
+</p>
