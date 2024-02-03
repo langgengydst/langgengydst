@@ -4,11 +4,6 @@
 
 - 🌱 I’m currently learning [React](https://reactjs.org/), 
 [Next.js](https://nextjs.org/)
-- 👯 I’m looking to collaborate on [React](https://reactjs.org/)
-- 🤔 I’m looking for help with [React](https://reactjs.org/)
-- 💬 Ask me about [React](https://reactjs.org/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a Frontend Developer
 
 ### 📈 GitHub Stats
 
